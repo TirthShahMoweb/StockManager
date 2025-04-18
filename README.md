@@ -1,5 +1,5 @@
 [ { "product": 4, 
-    "batch_number": "#123rdfgdf56", 
+    "batch_number": "#12356", 
     "expiry_date": "2026-01-01", 
     "quantity": 10 },
  {  "product": 8,
